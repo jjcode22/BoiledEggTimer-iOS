@@ -3,9 +3,11 @@
 ## Goal
 
 A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-<img width="202" height="92 alt="Screenshot 2024-01-29 at 11 40 20 PM" src="https://github.com/jjcode22/BoiledEggTimer-iOS/assets/108716229/10547750-6fd0-4ad0-b26d-7e363ca568f4">
-<img width="202" height="92" alt="Screenshot 2024-01-29 at 11 42 56 PM" src="https://github.com/jjcode22/BoiledEggTimer-iOS/assets/108716229/87d3e341-ed4c-424c-9b9a-e5d5b7c337bd">
-<img width="202" height="92 alt="Screenshot 2024-01-29 at 11 43 13 PM" src="https://github.com/jjcode22/BoiledEggTimer-iOS/assets/108716229/8bcf8fff-8340-40cc-bafa-b3973dbbcac2">
+<img width="352" alt="Screenshot 2024-01-29 at 11 40 20 PM" src="https://github.com/jjcode22/BoiledEggTimer-iOS/assets/108716229/8336d801-ea7d-4c86-a433-93d40c852ebb">
+
+<img width="352" alt="Screenshot 2024-01-29 at 11 46 31 PM" src="https://github.com/jjcode22/BoiledEggTimer-iOS/assets/108716229/36f95ec7-047f-438b-a6e3-b2a89f66bb05">
+
+
 
 
 ## Concepts covered
