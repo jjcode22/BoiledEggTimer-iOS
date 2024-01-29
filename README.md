@@ -1,5 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
+This App counts down to the perfect boiling time for soft,medium or hard boiled eggs 
 # Egg Timer
 
 ## Our Goal
